@@ -1,1 +1,1 @@
-# These are mini projects finish by Jay Chen.
+# These are mini projects by Jay Chen.
